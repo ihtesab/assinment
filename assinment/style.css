@@ -1,0 +1,122 @@
+.header{
+   text-align: center;
+    background-image: url(resources/Banner\ Image.png);
+    width: 1275px;
+height: 600.001px;
+flex-shrink: 0;
+border-radius: 16px;
+background-repeat: no-repeat;
+background-position: 50%;
+padding-left: 30%;
+
+
+}
+.header h1{
+    text-align: center;
+    width: 249.974px;
+height: 40px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.header h3{
+    width: 609.976px;
+height: 190px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; /* 131.944% */
+}
+.titel{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.comment{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.text{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.image{
+    background-image: url(resources/New\ Year\ Photo.png);
+    width: 260.9px 260px;
+height: 500px;
+flex-shrink: 0;
+position: center;
+background-repeat: no-repeat;
+background-position: 50%;
+}
+.text-two >h4{color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px; /* 137.5% */
+    letter-spacing: 7.04px;   
+    background-image: url(resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    width: 1320px;
+    height: 600px;
+flex-shrink: 0;
+padding-left: 30%;
+
+}
+.container{
+    box-sizing: border-box;
+    text-align: center;
+    background-color: rgba(253, 81, 132, 0.534);
+    background-position: 50%;
+    width: 1320px;
+height: 482px;
+background-position: 50%;
+background-repeat: no-repeat;
+
+
+}
+.text-primary{
+    color: #F00;
+}
+.button{
+  background-color: #FF0000;
+  display: inline-flex;
+padding: 16px 32px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+}
+.join{
+    text-align: center;
+    text-decoration: white;
+}
+
+
+
+
+
+
