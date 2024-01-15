@@ -1,0 +1,11 @@
+
+body{
+    margin: 0px;
+}
+.wraper{
+   margin-left: 5%;
+   margin-right: 5%;
+}
+.arrange-left{
+    float: left;
+}

@@ -1,0 +1,10 @@
+.logo h1{
+    margin: 0;
+   font-size: 40px;
+}
+.logo h1 span:first-of-type{
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    margin-right: 5px;
+    color: #d19c97;
+}
